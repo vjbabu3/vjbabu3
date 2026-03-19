@@ -15,7 +15,7 @@ This is where I share my projects, experiments, and learning journey — everyth
 
 📊 Pandas, NumPy
 
-📈 Data Visualization (Matplotlib / Seaborn)
+📈 Data Visualization 
 
 💻 C | C++
 
