@@ -29,8 +29,6 @@ Data Analysis Projects
 
 Real-world Dataset Handling
 
-AI Applications
-
 🎯 Career Goal
 
 Aspiring Data Scientist focused on building practical, impactful solutions using data.
