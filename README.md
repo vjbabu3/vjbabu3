@@ -1,42 +1,94 @@
-Hey there 👋
+# 👋 Hello, I'm Mukkapati Vijay Babu
 
-I'm Vijay, a Data Science student passionate about turning data into insights.
+<div align="center">
+<img src="C:\Users\Vijay\Downloads\ChatGPT Image Jul 29, 2026, 06_00_28 AM.png"font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;Machine+Learning+Enthusiast;Building+AI+Solutions;Open+Source+Learner" />
+</div>
 
-I work mainly with Python, SQL, and Data Analysis fundamentals.
-Currently building real-world projects to strengthen my analytical and problem-solving skills.
+---
 
-This is where I share my projects, experiments, and learning journey — everything built step by step as I grow.
+# 🚀 About Me
 
-🚀 Tools & Tech
+### 🎓 B.Tech Data Science Student
 
-🐍 Python
+I am passionate about solving real-world problems using **Python, Machine Learning, and Artificial Intelligence**. I enjoy building practical AI applications, contributing to open source, and continuously improving my programming skills.
 
-🗄️ SQL
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-📊 Pandas, NumPy
+### 🔭 Currently Working On
 
-📈 Data Visualization 
+- 🐍 Python DSA
+- 📊 Data Science Projects
 
-💻 C | C++
+### 🌱 Currently Learning
 
-🌐 MERN Stack (Basics)
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Data Structures & Algorithms
 
-📚 Currently Learning
+### 👯 Looking to Collaborate On
 
-Capstone Projects
+- Open Source
+- Machine Learning
+- AI Projects
+- Python Projects
 
-Data Analysis Projects
+### 💬 Ask Me About
 
-Real-world Dataset Handling
+- Python
+- SQL
+- Machine Learning
+- Pandas
+- NumPy
+- Git & GitHub
 
-🎯 Career Goal
 
-Aspiring Data Scientist focused on building practical, impactful solutions using data.
+# 💻 Tech Stack
+# Languages & Tools 👨‍💻 🛠️
 
-✨ A Bit About Me
+<br>
 
-📊 I enjoy analyzing patterns in data
+<p align="center">
 
-🚀 Learning consistently and building projects
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Science-6A1B9A?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8E24AA?style=for-the-badge&logo=openai&logoColor=white"/>
 
-🎯 Goal-oriented and growth-focused
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+</p>
+
+<br>
+
+
+
+
+# 📫 Connect With Me
+
+📧 Email: vb9477998@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/m-vijay-babu
+
+🌍 Portfolio: Coming Soon...
+
+---
+
+
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my projects, consider giving them a ⭐
+
+</div>
