@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Mukkapati Vijay Babu
 
 <div align="center">
-<img src="C:\Users\Vijay\Downloads\ChatGPT Image Jul 29, 2026, 06_00_28 AM.png"font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;Machine+Learning+Enthusiast;Building+AI+Solutions;Open+Source+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=10&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Science+Student;Machine+Learning+Enthusiast;Building+AI+Solutions;Open+Source+Learner" />
 </div>
 
 ---
